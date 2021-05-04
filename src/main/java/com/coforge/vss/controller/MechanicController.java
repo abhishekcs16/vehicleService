@@ -22,7 +22,7 @@ import com.coforge.vss.exception.ResourceNotFoundException;
 import com.coforge.vss.model.Mechanic;
 import com.coforge.vss.repository.MechanicRepository;
 
-@CrossOrigin(origins ="http://localhost:4200")
+//@CrossOrigin(origins ="http://localhost:4200")
 @RestController
 @RequestMapping("/api")
 public class MechanicController {

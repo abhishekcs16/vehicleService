@@ -22,7 +22,7 @@ import com.coforge.vss.model.Vehicle;
 import com.coforge.vss.repository.CustomerRepository;
 import com.coforge.vss.repository.VehicleRepository;
 
-@CrossOrigin(origins = "http://localhost:4200")
+//@CrossOrigin(origins = "http://localhost:4200")
 @RestController
 @RequestMapping(value = "/api")
 public class VehicleController {

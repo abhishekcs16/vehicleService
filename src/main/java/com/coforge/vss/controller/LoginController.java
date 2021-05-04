@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin("https://abhishekcs16.github.io")
 @RestController
 //@RequestMapping(value="/login")
 public class LoginController {

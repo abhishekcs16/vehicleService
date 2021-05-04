@@ -22,7 +22,7 @@ import com.coforge.vss.repository.CustomerRepository;
 
 
 
-@CrossOrigin(origins ="http://localhost:4200")
+//@CrossOrigin(origins ="https://abhishekcs16.github.io/")
 @RestController
 @RequestMapping("/api")
 public class CustomerController {

@@ -26,7 +26,7 @@ import com.coforge.vss.repository.JobCardRepository;
 import com.coforge.vss.repository.MechanicRepository;
 import com.coforge.vss.repository.ServiceRepository;
 
-@CrossOrigin(origins = "http://localhost:4200")
+//@CrossOrigin(origins = "http://localhost:4200")
 @RestController
 @RequestMapping(value = "/api")
 public class ServiceController {

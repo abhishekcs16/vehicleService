@@ -23,7 +23,7 @@ import com.coforge.vss.model.Vehicle;
 import com.coforge.vss.model.JobCard;
 import com.coforge.vss.repository.VehicleRepository;
 import com.coforge.vss.repository.JobCardRepository;
-@CrossOrigin(origins ="http://localhost:4200")
+//@CrossOrigin(origins ="http://localhost:4200")
 @RestController
 @RequestMapping("/api")
 public class JobCardController {

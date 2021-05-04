@@ -24,7 +24,7 @@ import com.coforge.vss.model.Vehicle;
 import com.coforge.vss.repository.InsuranceRepository;
 import com.coforge.vss.repository.VehicleRepository;
 
-@CrossOrigin(origins = "http://localhost:4200")
+//@CrossOrigin(origins = "http://localhost:4200")
 @RestController
 @RequestMapping("/api")
 public class InsuranceController {

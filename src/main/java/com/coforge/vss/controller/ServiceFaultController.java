@@ -25,7 +25,7 @@ import com.coforge.vss.repository.ServiceFaultRepository;
 import com.coforge.vss.repository.ServiceRepository;
 
 
-@CrossOrigin(origins = "http://localhost:4200")
+//@CrossOrigin(origins = "http://localhost:4200")
 @RestController
 @RequestMapping(value = "/api")
 public class ServiceFaultController {
